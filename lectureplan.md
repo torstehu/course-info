@@ -44,14 +44,7 @@
 |      |  27/10     |           | No lab assistance                  |         |              |
 |  45  | 30/10     |  14       | Reliable Storage                                 |  Vinay   |              |
 |      | 3/11     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  46  | 6/11     |   ??        |      ??                                            |  Vinay   |              |
-|      | 6/11     | Lab 7     | ZapLab: TV channel statistics                    |  Vinay   |              |
-|      | **10/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
-|  47  | 13/11     |   ??        |      ??                                            |  Vinay   |              |
-|      | 15/11     |   ??        |      ??                                            |  Vinay   |              |
-|  48  | 20/11     |   ??        |      ??                                            |  Vinay   |              |
-|      | 22/11     |   ??        |      ??                                            |  Vinay   |              |
-|  49  | 27/11     |   ??        |      ??                                            |  Vinay   |              |
-|      | 29/11     |   ??        |      ??                                            |  Vinay   |              |
+|  46  | 6/11     |         |      No lecture                                           |  Vinay   |              |
+|  47    | **13/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |      | 1/12     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12     |           | **Exam**                   |         |              |
