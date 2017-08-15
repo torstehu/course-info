@@ -6,7 +6,7 @@
 |:----:|:---------:|:-----:    |--------------------------------------------------|:-------:|:------------:|
 |  35  |  21/8     |   1       | Introduction to Operating Systems                |  Vinay   |              |
 |      |  21/8     |           | Getting started with Unix, git, github and Go    |  Vinay   |              |
-|      |  23/8     |           | Go for Java programmers                          |  Vinay   |              |
+|      |  22/8     |           | Go for Java programmers                          |  Vinay   |              |
 |      |  25/8     | Lab 1     | Unix, programming tools and C                    |         |              |
 |  36  |  28/8     |           | Introduction to C programming                    |  Vinay |              |
 |      |  28/8     |           | C programming: variables, pointers, and memory   |  Vinay |              |
