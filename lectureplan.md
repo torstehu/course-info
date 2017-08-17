@@ -46,7 +46,7 @@
 |  44  | 30/10     |  14       | Reliable Storage                                 |  Vinay  |              |
 |      |  **30/10**| **Lab 6** | **Linux Kernel IO Driver**                       |  Vinay       |              |
 |      | 31/10     | Lab 7     | ZapLab: TV channel statistics                    |  Vinay       |              |
-|  45  | 6/11      |           | No lecture  / Guest lecture?                     |  ?      |  CIKM 2017?  |
+|  45  | 6/11      |           | Guest lecture?                     |  ?      |  CIKM 2017?  |
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
 |  46  | 13/11     |           | Revision / wrap up / Q & A                       |  Vinay       |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |  Vinay       |              |
