@@ -29,10 +29,11 @@
 |      | 26/9     |   7       | Scheduling                    |  Vinay   |              |
 |      |  29/9 | Lab 4 | Programming Tools                            |         |              |
 |  41  |  2/10     |   8       | Address Translation                              |  Vinay   |              |
-|      |  2/10     | Lab 5     | Threads and Protection                           |         |              |
+|      |  2/10     |          | Programming Tools                               |         |              |
 |      |  3/10     |   8       | Address Translation                              |  Vinay   |              |
 |      |  **6/10** | **Lab 4** | **Programming Tools**                            |         |              |
 |  42  | 9/10     |   9       | Caching and Virtual Memory                       |  Vinay   |              |
+|      | 9/10   | Lab 5 | Threads and Protection                       |         |                 |
 |      | 10/10     |  10       | Advanced Memory Management                       |  Vinay   |              |
 |      |  12/10     |           | Threads and Protection (No lab assistance)                  |         |              |
 |  43  | 16/10     |  11       | File Systems                                     |  Vinay   |              |
@@ -40,12 +41,14 @@
 |      | 18/10     |  12       | Storage Devices                                  |  Vinay   |              |
 |      | 20/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
 |  44  |  23/10     |  13       | Files and Directories                            |  Vinay   |              |
-|      |  25/10     |  14       | Reliable Storage                                 |  Vinay   |              |
+|      |  24/10     |  14       | Reliable Storage                                 |  Vinay   |              |
 |      |  27/10     |           | Linux Kernel IO Driver (No lab assistance)                  |         |              |
 |  45  | 30/10     |  14       | Reliable Storage                                 |  Vinay   |              |
 |      |  **30/10** | **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
-|      | 3/11     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  46  | 6/11     |         |      No lecture                                           |  Vinay   |              |
+|      | 31/10     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
+|  46  | 6/11     |         |      No lecture  / Guest lecture?                    |  ?   |              |
+|      | 6/11     |         |      ZapLab: TV channel statistics                           |  Vinay   |              |
+|      | 10/11     |         |      ZapLab: TV channel statistics  (No lab assistance)      |    |              |
 |  47    | **13/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |      | 1/12     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12     |           | **Exam**                   |         |              |
