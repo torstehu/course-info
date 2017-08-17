@@ -42,7 +42,7 @@
 |  43  |  23/10    |  13       | Files and Directories                            |  Vinay  |              |
 |      | 23/10     | Lab 6     | Linux Kernel IO Driver                           |         |              |
 |      |  24/10    |  14       | Reliable Storage                                 |  Vinay  |              |
-|      |  27/10    |           | Linux Kernel IO Driver (No lab assistance)                 |  Aalborg     |      
+|      |  27/10    |           | Linux Kernel IO Driver (No lab assistance)       |         |  Aalborg     |      
 |  44  | 30/10     |  14       | Reliable Storage                                 |  Vinay  |              |
 |      |  **30/10**| **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
 |      | 31/10     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
