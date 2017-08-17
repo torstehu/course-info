@@ -11,15 +11,15 @@
 |  35  |  28/8     |           | Introduction to C programming                    |  Vinay  |              |
 |      |  28/8     |           | C programming: variables, pointers, and memory   |  Vinay  |              |
 |      |  29/9     |   2       | The Kernel Abstraction                           |  Vinay  |              |
-|      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |         |              |
+|      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |  Vinay       |              |
 |  36  |  4/9      |   3       | The Programming Interface                        |  Vinay  |              |
 |      |  4/9      |           | Organizing Go Code                               |  Vinay  |              |
 |      |  5/9      |   4       | Concurrency and Threads                          |  Vinay  |              |
-|      |  8/9      | Lab 2     | Introduction to Go programming                   |         |              |
+|      |  8/9      | Lab 2     | Introduction to Go programming                   |  Vinay       |              |
 |  37  |  11/9     |   5       | Synchronizing Access to Shared Objects           |  Vinay  |              |
 |      |  11/9     |           | Go Concurrency                                   |  Vinay  |              |
 |      |  12/9     |   5       | Synchronizing Access to Shared Objects           |  Vinay  |              |
-|      |  **15/9** | **Lab 2** | **Introduction to Go programming**               |         |              |
+|      |  **15/9** | **Lab 2** | **Introduction to Go programming**               |  Vinay       |              |
 |  38  |  18/9     |   5       | Synchronizing Access to Shared Objects           |  Vinay  |              |
 |      |  18/9     | Lab 3     | Network Programming with Go                      |         |              |
 |      |  19/9     |   6       | Multi-Object Synchronization                     |  Vinay  |              |
