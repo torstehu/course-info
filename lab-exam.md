@@ -1,6 +1,6 @@
 ###Lab Exam Information
 
-The lab exam will be held in **Week 49 (December 1st 2017)**.
+The lab exam will be held in **Week 49 (December 1st 2017)** (tentative, the exam may change).
 Exact day and time will be provided in a separate schedule.
  
 1. Examination is individual and covers only lab 6 and 7. 
