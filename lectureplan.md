@@ -46,9 +46,10 @@
 |  44  | 30/10     |  14       | Reliable Storage                                 |         |              |
 |      |  **30/10**| **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
 |      | 31/10     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  45  | 6/11      |           | Guest lecture?                                   |         |  Singapore, CIKM 2017?  |
+|  45  | 6/11      |           | Guest lecture 1?                                   |         |  Singapore, CIKM 2017?  |
+|      | 7/11      |           | Guest lecture 2?                                   |         |  Singapore, CIKM 2017?  |
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
 |  46  | 13/11     |           | Revision / wrap up / Q & A                       |         |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
-|      | 1/12      |           | **Lab Exam**                                     |         |              |
+|      | 1/12 (tentative)     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12      |           | **Exam**                                         |         |              |
