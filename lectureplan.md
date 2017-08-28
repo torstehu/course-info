@@ -8,7 +8,7 @@
 |      |  21/8     |           | Getting started with Unix, git, github and Go    |         |              |
 |      |  22/8     |           | Go for Java programmers                          |  [slides](https://talks.golang.org/2015/go-for-java-programmers.slide#1)       |              |
 |      |  25/8     | Lab 1     | Unix, programming tools and C                    |         |              |
-|  35  |  28/8     |           | Introduction to C programming                    |         |              |
+|  35  |  28/8     |           | Introduction to C programming                    | [slides](https://stavanger.instructure.com/courses/432/modules/items/7181)        |              |
 |      |  28/8     |           | C programming: variables, pointers, and memory   |         |              |
 |      |  29/9     |   2       | The Kernel Abstraction                           |         |              |
 |      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |         |          |
