@@ -10,7 +10,7 @@
 |      |  25/8     | Lab 1     | Unix, programming tools and C                    |         |              |
 |  35  |  28/8     |           | Introduction to C programming                    | [slides](https://stavanger.instructure.com/courses/432/modules/items/7181)        |              |
 |      |  28/8     |           | C programming: variables, pointers, and memory   |         |              |
-|      |  29/9     |   2       | The Kernel Abstraction                           |         |              |
+|      |  29/9     |   2       | The Kernel Abstraction                           |  [slides](https://stavanger.instructure.com/courses/432/modules/items/7396) [Homework](https://stavanger.instructure.com/courses/432/modules/items/7397)       |              |
 |      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |         |          |
 |  36  |  4/9      |   3       | The Programming Interface                        |         |              |
 |      |  4/9      |           | Organizing Go Code                               |         |              |
