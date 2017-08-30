@@ -1,4 +1,4 @@
-##Final Syllabus
+## Final Syllabus
 
 The course is based on this [textbook](http://www.recursivebooks.com): 
 Operating Systems: Principles and Practice, Tom Anderson and Mike Dahlin. Second edition.

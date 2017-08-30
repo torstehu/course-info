@@ -1,4 +1,4 @@
-###Lab Exam Information
+### Lab Exam Information
 
 The lab exam will be held in **Week 47 (November 24th 2017)** (Final).
 Exact day and time will be provided in a separate schedule.
@@ -29,7 +29,7 @@ exam, but to get a final grade in the course, a passing grade is required for
 both the lab exam and the written exam.
 
 
-###Lab Exam Procedure
+### Lab Exam Procedure
 
 1. You are expected to come to the lab between 0700-0800 in morning of your
 exam date to set up the necessary terminal windows and otherwise prepare things

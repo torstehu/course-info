@@ -1,4 +1,4 @@
-#Grading and Collaboration Policy
+# Grading and Collaboration Policy
 
 All the lab exercises must be completed to satisfaction (passed)
 in order to sit for the exam. The final exam accounts for 60 % of
@@ -7,7 +7,7 @@ the remaining 40 %. For the graded part of the lab, you will be
 given a grade in the range 0-100 points, which will be translated
 to a letter grade in the end, after the lab exam.
 
-##Plagiarism Warning
+## Plagiarism Warning
 
 Any form of cheating, plagiarism, i.e. copying of another student’s
 text or source code, will result in the grade F, and may be reported
@@ -17,7 +17,7 @@ cause for suspension or dismissal from UiS.
 
 *Don’t cheat. It’s not worth it!*
 
-##Slip Days
+## Slip Days
 
 We have frequent lab handins in this course and to add some flexibility
 to your schedule, we have adopted a scheme with *slip days*. This means
@@ -28,7 +28,7 @@ exams, or other conflicting deadlines, you can use up to a total of
 will count negatively towards your lab grade. For each extra slip day used,
 your grade is reduced by 5 points.
 
-###Resubmission
+### Resubmission
 If any of the submitted lab handins are below passing level, you will be
 granted **one resubmission** per handin. Your grade will be reduced by
 
@@ -38,15 +38,15 @@ granted **one resubmission** per handin. Your grade will be reduced by
 
 A fourth resubmission will not be allowed, resulting in failing the lab.
 
-##Approval Process
+## Approval Process
 
 Once you have passed the necessary tests for approval/grading of one of
 the labs *you must* come to the Linux lab (E353) and demonstrate/show your
 code. *This is a requirement for approval.*
 
-##Labs
+## Labs
 
-####Labs 1 - 5:
+#### Labs 1 - 5:
 The first five lab handins are mainly preparatory, and doing a good job on
 these is important for the remaining part of lab. *They must be completed
 individually.* We do encourage collaboration on learning the material, e.g.
@@ -57,7 +57,7 @@ student or make your code available to others. These labs will *not be graded*,
 but must be completed to at least the level of passing (>60 points per lab).
 You will not be told your grade points, only pass/fail.
 
-####Labs 6 - 7:
+#### Labs 6 - 7:
 The last two lab handins will be two larger projects which will require a
 significant amount of work. We expect students to form groups and work together
 on these lab handins. For these lab handins the passing level will also be > 60

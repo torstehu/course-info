@@ -1,4 +1,4 @@
-##Lecture and Lab Plan
+## Lecture and Lab Plan
 
 (Lab submission deadlines are marked with **bold**.)
 

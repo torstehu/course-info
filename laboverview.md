@@ -1,4 +1,4 @@
-##Lab Overview (outdated)
+## Lab Overview (outdated)
 
 This schedule may not be updated. Please consult the [lecture plan](https://github.com/uis-dat320-fall17/course-info/blob/master/lectureplan.md) instead for the deadlines. 
 
