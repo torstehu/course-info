@@ -12,7 +12,7 @@
 |      |  28/8     |           | C programming: variables, pointers, and memory   |         |              |
 |      |  29/9     |   2       | The Kernel Abstraction                           |  [slides](https://stavanger.instructure.com/courses/432/modules/items/7396) [Homework](https://stavanger.instructure.com/courses/432/modules/items/7397)       |              |
 |      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |         |          |
-|  36  |  4/9      |   3       | The Programming Interface                        |         |              |
+|  36  |  4/9      |   3       | The Programming Interface                        | [slides](https://stavanger.instructure.com/courses/432/modules/items/7910)        |              |
 |      |  4/9      |           | Organizing Go Code                               |         |              |
 |      |  5/9      |   4       | Concurrency and Threads                          |         |              |
 |      |  8/9      | Lab 2     | Introduction to Go programming                   |         |              |
