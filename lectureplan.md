@@ -49,7 +49,7 @@
 |  45  | 6/11      |           | Guest lecture 1?                                   |         |  Singapore, CIKM 2017?  |
 |      | 7/11      |           | Guest lecture 2?                                   |         |  Singapore, CIKM 2017?  |
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
-|  46  | 13/11     |           | Revision / wrap up / Q & A                       |         |              |
+|  46  | 13/11     |           | Guest lecture by friendup.cloud                  |         |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |  47    | 24/11     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12      |           | **Exam**                                         |         |              |
