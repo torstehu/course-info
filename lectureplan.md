@@ -16,8 +16,8 @@
 |      |  4/9      |           | Organizing Go Code                               |         |              |
 |      |  5/9      |   4       | Concurrency and Threads                          |         |              |
 |      |  8/9      | Lab 2     | Introduction to Go programming                   |         |              |
-|  37  |  11/9     |   5       | Synchronizing Access to Shared Objects           |         |              |
-|      |  11/9     |           | Go Concurrency                                   |         |              |
+|  37  |  11/9     |   5       | Go Concurrency           |         |              |
+|      |  11/9     |           | Go Network Programming                                   |         |              |
 |      |  12/9     |   5       | Synchronizing Access to Shared Objects           |         |              |
 |      |  **15/9** | **Lab 2** | **Introduction to Go programming**               |         |              |
 |  38  |  18/9     |   5       | Synchronizing Access to Shared Objects           |         |              |
