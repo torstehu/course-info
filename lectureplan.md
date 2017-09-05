@@ -46,8 +46,8 @@
 |  44  | 30/10     |  14       | Reliable Storage                                 |         |              |
 |      |  **30/10**| **Lab 6** | **Linux Kernel IO Driver**                       |         |              |
 |      | 31/10     | Lab 7     | ZapLab: TV channel statistics                    |         |              |
-|  45  | 6/11      |           | Guest lecture 1?                                   |         |  Singapore, CIKM 2017?  |
-|      | 7/11      |           | Guest lecture 2?                                   |         |  Singapore, CIKM 2017?  |
+|  45  | 6/11      |           | Revision, Q&A?                                |         |  Singapore, CIKM 2017?  |
+|      | 7/11      |           | Revision, Q&A / Guest lecture?                                   |         |  Singapore, CIKM 2017?  |
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
 |  46  | 13/11     |           | Guest lecture by friendup.cloud ("The Friend Unifying Platform - the first open source virtual cloud computer".)                  |         |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
