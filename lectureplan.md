@@ -54,4 +54,4 @@
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |  47    | 22/11     |           | **ZapLab: TV channel statistics (with all 5 slip days)**                                     |         |              |
 |      | 24/11     |           | **Lab Exam**                                     |         |              |
-|  50  | 8/12      |           | **Exam**                                         |         |              |
+|  49  | 8/12      |           | **Exam**                                         |         |              |
