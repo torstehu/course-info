@@ -51,5 +51,5 @@
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
 |  46  | 13/11     |           | Revision / wrap up / Q & A                       |         |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
-|      | 27/11     |           | **Lab Exam**                                     |         |              |
+|  47    | 24/11     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12      |           | **Exam**                                         |         |              |
