@@ -23,7 +23,7 @@
 |  38  |  18/9     |   5       | Synchronizing Access to Shared Objects           |         |              |
 |      |  18/9     | Lab 3     | Network Programming with Go                      |         |              |
 |      |  19/9     |   6       | Multi-Object Synchronization                     |         |              |
-|      |  22/9     |           | Network Programming with Go   (Lab assistance only from TAs)      |  Aalborg        |
+|      |  22/9     |           | Network Programming with Go   (Lab assistance only from TAs)      |          | Aalborg
 |  39  |  25/9     |   6       | Multi-Object Synchronization                     |         |              |
 |      |  **25/9** | **Lab 3** | **Network Programming with Go**                  |         |              |
 |      | 26/9      |   7       | Scheduling                                       |         |              |
