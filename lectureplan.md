@@ -49,7 +49,7 @@
 |  45  | 6/11      |           | Guest lecture 1?                                   |         |  Singapore, CIKM 2017?  |
 |      | 7/11      |           | Guest lecture 2?                                   |         |  Singapore, CIKM 2017?  |
 |      | 10/11     |           | ZapLab: TV channel statistics (No lab assistance)|         |              |
-|  46  | 13/11     |           | Guest lecture by friendup.cloud ("The Friend Unfying Platform - the first open source virtual cloud computer".)                  |         |              |
+|  46  | 13/11     |           | Guest lecture by friendup.cloud ("The Friend Unifying Platform - the first open source virtual cloud computer".)                  |         |              |
 |      | **17/11** | **Lab 7** | **ZapLab: TV channel statistics**                |         |              |
 |  47    | 24/11     |           | **Lab Exam**                                     |         |              |
 |  50  | 8/12      |           | **Exam**                                         |         |              |
