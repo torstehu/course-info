@@ -14,7 +14,7 @@
 |      |  **1/9**  | **Lab 1** | **Unix, programming tools and C**                |         |          |
 |  36  |  4/9      |   3       | The Programming Interface                        | [slides](https://stavanger.instructure.com/courses/432/modules/items/7910)        |              |
 |      |  4/9      |           | Organizing Go Code                               |         |              |
-|      |  5/9      |   4       | Concurrency and Threads                          |   [slides] (https://stavanger.instructure.com/courses/432/modules/items/8079)      |              |
+|      |  5/9      |   4       | Concurrency and Threads                          |   [slides](https://stavanger.instructure.com/courses/432/modules/items/8079)      |              |
 |      |  8/9      | Lab 2     | Introduction to Go programming                   |         |              |
 |  37  |  11/9     |   5       | Go Concurrency           |         |              |
 |      |  11/9     |           | Go Network Programming                                   |         |              |
