@@ -16,7 +16,7 @@
 |      |  4/9      |           | Organizing Go Code                               |         |              |
 |      |  5/9      |   4       | Concurrency and Threads                          |   [slides](https://stavanger.instructure.com/courses/432/modules/items/8079)   [Homework](https://stavanger.instructure.com/courses/432/modules/items/8080)   |              |
 |      |  8/9      | Lab 2     | Introduction to Go programming                   |         |              |
-|  37  |  11/9     |   5       | Go Concurrency           |   [Concurrency vs Parallelism slides](https://talks.golang.org/2012/waza.slide#1) [Video] (https://vimeo.com/49718712)    |              |
+|  37  |  11/9     |   5       | Go Concurrency           |   [Concurrency vs Parallelism slides](https://talks.golang.org/2012/waza.slide#1) [Video](https://vimeo.com/49718712)    |              |
 |      |  11/9     |           | Go Network Programming                                   |         |              |
 |      |  12/9     |   5       | Synchronizing Access to Shared Objects           |         |              |
 |      |  **15/9** | **Lab 2** | **Introduction to Go programming**               |         |              |
